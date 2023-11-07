@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {}
+    "C:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {
+    "C:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "c:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectPath": "C:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\Simon Rohrer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\Guided-project-debugging-CSharp-main\\GuidedProject\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon Rohrer\\AppData\\Roaming\\NuGet\\NuGet.Config"
